@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">News Feed</string>
+    <string name="api_key">2c57cf5b95034a67a9408c2d07919d3b</string>
+    <string name="top_news">Top news</string>
+    <string name="error">Error</string>
+    <string name="cancel">Cancel</string>
+    <string name="message">Message</string>
+    <string name="read_news">Read news</string>
+    <string name="saved">Saved</string>
+    <string name="profile">Profile</string>
+
+    <string name="account">Account</string>
+    <string name="change_account_name">Change account name</string>
+    <string name="change_image">Change account Image</string>
+    <string name="help"><![CDATA[Help & Feedback]]></string>
+    <string name="support_us">Support US</string>
+    <string name="about_us">About US</string>
+    <string name="contact_us"><![CDATA[Contact & Feedback]]></string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+
+</resources>
